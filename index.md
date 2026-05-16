@@ -21,6 +21,8 @@ Toplam kavram sayısı: **885**
 - [Sosyoloji](#sosyoloji) — 65 kavram
 - [Psikoloji](#psikoloji) — 59 kavram
 
+<a id="turk-dili-ve-edebiyati"></a>
+
 ## Türk Dili ve Edebiyatı
 
 Bu bölümde **242** kavram vardır.
@@ -270,6 +272,8 @@ Bu bölümde **242** kavram vardır.
 | **Modernizm** | Modernizm, geleneksel anlatım kalıplarını kırarak bireyin iç dünyasını, yabancılaşmayı ve parçalı gerçekliği öne çıkaran anlayıştır. |
 | **Postmodernizm** | Postmodernizm, üstkurmaca, metinlerarasılık, parodi ve çoğul anlatım gibi tekniklerle kesin anlam fikrini sorgulayan anlayıştır. |
 
+<a id="din-kulturu-ve-ahlak-bilgisi"></a>
+
 ## Din Kültürü ve Ahlak Bilgisi
 
 Bu bölümde **108** kavram vardır.
@@ -384,6 +388,8 @@ Bu bölümde **108** kavram vardır.
 | **Evanjelik akımlar** | Evanjelik akımlar, İncil’in merkezî otoritesini, kişisel imanı ve misyonerlik faaliyetlerini vurgulayan Protestan eğilimlerdir. |
 | **Hinduizm** | Hinduizm, Hindistan kökenli; karma, tenasüh, kast sistemi ve çok tanrılı/çeşitli inanç yapılarıyla bilinen dinî gelenektir. |
 | **Budizm** | Budizm, Buda’nın öğretilerine dayanan; acıdan kurtuluş, orta yol, karma ve nirvana düşüncelerini öne çıkaran dinî-felsefi gelenektir. |
+
+<a id="tarih"></a>
 
 ## Tarih
 
@@ -522,6 +528,8 @@ Bu bölümde **130** kavram vardır.
 | **Tanzimat** | Osmanlı’da 1839’dan itibaren başlayan modernleşme ve hukuk düzenlemeleri dönemidir. |
 | **Meşrutiyet** | Hükümdarın yetkilerinin anayasa ve meclisle sınırlandığı yönetim biçimidir. |
 
+<a id="tc-inkilap-tarihi-ve-ataturkculuk"></a>
+
 ## T.C. İnkılap Tarihi ve Atatürkçülük
 
 Bu bölümde **44** kavram vardır.
@@ -572,6 +580,8 @@ Bu bölümde **44** kavram vardır.
 | **Millî egemenlik** | Millî egemenlik, yönetme yetkisinin hanedan veya kişi yerine millete ait olması ilkesidir. |
 | **Tam bağımsızlık** | Tam bağımsızlık, bir devletin siyasi, ekonomik, askerî ve hukuki alanlarda başka güçlere bağlı olmadan karar verebilmesidir. |
 | **Atatürkçülük** | Atatürkçülük, Türkiye Cumhuriyeti’nin kuruluş ilkelerini, çağdaşlaşma hedefini ve Atatürk ilke ve inkılaplarını esas alan düşünce sistemidir. |
+
+<a id="cografya"></a>
 
 ## Coğrafya
 
@@ -688,6 +698,8 @@ Bu bölümde **108** kavram vardır.
 | **Sürdürülebilirlik** | Doğal ve beşerî kaynakları gelecek kuşakların ihtiyaçlarını tehlikeye atmadan kullanma ilkesidir. |
 | **Çevre bilinci** | Doğal çevreyi koruma, kaynakları doğru kullanma ve çevresel sorunlara duyarlı davranma farkındalığıdır. |
 
+<a id="felsefe"></a>
+
 ## Felsefe
 
 Bu bölümde **90** kavram vardır.
@@ -785,6 +797,8 @@ Bu bölümde **90** kavram vardır.
 | **İman** | Dinin temel inanç esaslarını kalben kabul etme ve tasdik etmedir. |
 | **Teoloji** | Teoloji, bir dinin inanç esaslarını o dinin kabul ettiği kaynaklara dayanarak sistemli biçimde inceleyen alandır. |
 
+<a id="mantik"></a>
+
 ## Mantık
 
 Bu bölümde **39** kavram vardır.
@@ -830,6 +844,8 @@ Bu bölümde **39** kavram vardır.
 | **Niceleme mantığı** | Niceleme mantığı, tümel ve tikel niceleyicilerle kurulan önermeleri inceleyen mantık alanıdır. |
 | **Tartışma mantığı** | Tartışma mantığı, iddia, gerekçe, karşı görüş ve kanıtların tutarlılığını değerlendiren mantık yaklaşımıdır. |
 | **Bululuş mantığı** | Buluş mantığı, yeni fikir veya çözüm üretme sürecindeki düşünme yollarını inceleyen mantık yaklaşımıdır. |
+
+<a id="sosyoloji"></a>
 
 ## Sosyoloji
 
@@ -902,6 +918,8 @@ Bu bölümde **65** kavram vardır.
 | **Toplumsal kontrol** | Toplumun birey davranışlarını normlara uygun tutma mekanizmalarıdır. |
 | **Sapma** | Toplumsal normlara aykırı davranıştır. |
 | **Suç** | Hukuk kurallarına aykırı ve yaptırımı olan davranıştır. |
+
+<a id="psikoloji"></a>
 
 ## Psikoloji
 
