@@ -9,6 +9,22 @@ Bu dosya, tablodaki **C** ve **D** kolonlarından oluşturulmuştur: **Kavram** 
 
 Toplam kavram sayısı: **885**
 
+## İçindekiler
+
+- [Türk Dili ve Edebiyatı](#turk-dili-ve-edebiyati) — 242 kavram
+- [Din Kültürü ve Ahlak Bilgisi](#din-kulturu-ve-ahlak-bilgisi) — 108 kavram
+- [Tarih](#tarih) — 130 kavram
+- [T.C. İnkılap Tarihi ve Atatürkçülük](#tc-inkilap-tarihi-ve-ataturkculuk) — 44 kavram
+- [Coğrafya](#cografya) — 108 kavram
+- [Felsefe](#felsefe) — 90 kavram
+- [Mantık](#mantik) — 39 kavram
+- [Sosyoloji](#sosyoloji) — 65 kavram
+- [Psikoloji](#psikoloji) — 59 kavram
+
+## Türk Dili ve Edebiyatı
+
+Bu bölümde **242** kavram vardır.
+
 | Kavram | YKS Uygun Açıklama |
 |---|---|
 | **Edebiyat** | Duygu, düşünce ve hayallerin dil aracılığıyla estetik bir biçimde anlatıldığı sanat dalıdır. |
@@ -253,6 +269,13 @@ Toplam kavram sayısı: **885**
 | **Sembolizm** | Sembolizm, duygu ve izlenimleri doğrudan söylemek yerine semboller, çağrışımlar ve müzikaliteyle aktaran edebî akımdır. |
 | **Modernizm** | Modernizm, geleneksel anlatım kalıplarını kırarak bireyin iç dünyasını, yabancılaşmayı ve parçalı gerçekliği öne çıkaran anlayıştır. |
 | **Postmodernizm** | Postmodernizm, üstkurmaca, metinlerarasılık, parodi ve çoğul anlatım gibi tekniklerle kesin anlam fikrini sorgulayan anlayıştır. |
+
+## Din Kültürü ve Ahlak Bilgisi
+
+Bu bölümde **108** kavram vardır.
+
+| Kavram | YKS Uygun Açıklama |
+|---|---|
 | **İslam** | İslam, Allah’ın birliğine inanmayı, Hz. Muhammed’in peygamberliğini kabul etmeyi ve Kur’an ile sünnete dayalı hayat anlayışını ifade eden dindir. |
 | **İnanç** | İnanç, kişinin kutsal, dinî veya metafizik bir gerçeği doğru kabul etmesi ve buna bağlı bir tutum geliştirmesidir. |
 | **Akide** | Akide, İslam’da inanılması gereken temel esasları ifade eden inanç sistemidir. |
@@ -361,6 +384,13 @@ Toplam kavram sayısı: **885**
 | **Evanjelik akımlar** | Evanjelik akımlar, İncil’in merkezî otoritesini, kişisel imanı ve misyonerlik faaliyetlerini vurgulayan Protestan eğilimlerdir. |
 | **Hinduizm** | Hinduizm, Hindistan kökenli; karma, tenasüh, kast sistemi ve çok tanrılı/çeşitli inanç yapılarıyla bilinen dinî gelenektir. |
 | **Budizm** | Budizm, Buda’nın öğretilerine dayanan; acıdan kurtuluş, orta yol, karma ve nirvana düşüncelerini öne çıkaran dinî-felsefi gelenektir. |
+
+## Tarih
+
+Bu bölümde **130** kavram vardır.
+
+| Kavram | YKS Uygun Açıklama |
+|---|---|
 | **Tarih** | Tarih, geçmişte yaşayan insan topluluklarının faaliyetlerini yer, zaman, neden-sonuç ilişkisi ve belge temelli olarak inceleyen bilim dalıdır. |
 | **Zaman** | Olayların gerçekleştiği dönem, süre veya zaman dilimidir. |
 | **Kronoloji** | Kronoloji, tarihî olayların zaman sırasına göre düzenlenmesidir. |
@@ -491,6 +521,13 @@ Toplam kavram sayısı: **885**
 | **Islahat** | Mevcut düzeni koruyarak yapılan düzeltme ve iyileştirme hareketidir. |
 | **Tanzimat** | Osmanlı’da 1839’dan itibaren başlayan modernleşme ve hukuk düzenlemeleri dönemidir. |
 | **Meşrutiyet** | Hükümdarın yetkilerinin anayasa ve meclisle sınırlandığı yönetim biçimidir. |
+
+## T.C. İnkılap Tarihi ve Atatürkçülük
+
+Bu bölümde **44** kavram vardır.
+
+| Kavram | YKS Uygun Açıklama |
+|---|---|
 | **Mustafa Kemal** | Mustafa Kemal, Millî Mücadele’nin lideri, Türkiye Cumhuriyeti’nin kurucusu ve Atatürkçülük düşüncesinin temel şahsiyetidir. |
 | **Selanik** | Selanik, Mustafa Kemal’in doğduğu, çok kültürlü yapısıyla onun fikir dünyasının gelişmesinde etkili olan Osmanlı şehridir. |
 | **Manastır** | Manastır, Mustafa Kemal’in askerî eğitim aldığı ve fikir hayatının geliştiği önemli merkezlerden biridir. |
@@ -535,6 +572,13 @@ Toplam kavram sayısı: **885**
 | **Millî egemenlik** | Millî egemenlik, yönetme yetkisinin hanedan veya kişi yerine millete ait olması ilkesidir. |
 | **Tam bağımsızlık** | Tam bağımsızlık, bir devletin siyasi, ekonomik, askerî ve hukuki alanlarda başka güçlere bağlı olmadan karar verebilmesidir. |
 | **Atatürkçülük** | Atatürkçülük, Türkiye Cumhuriyeti’nin kuruluş ilkelerini, çağdaşlaşma hedefini ve Atatürk ilke ve inkılaplarını esas alan düşünce sistemidir. |
+
+## Coğrafya
+
+Bu bölümde **108** kavram vardır.
+
+| Kavram | YKS Uygun Açıklama |
+|---|---|
 | **Coğrafya** | İnsan ile doğal çevre arasındaki karşılıklı ilişkiyi inceleyen bilim dalıdır. |
 | **Doğa** | İnsan etkisi dışında oluşmuş yer şekilleri, iklim, su, bitki ve canlı unsurların bütünüdür. |
 | **İnsan** | Coğrafyada doğal çevreyle etkileşim kuran, mekânı kullanan ve dönüştüren beşerî unsurdur. |
@@ -643,6 +687,13 @@ Toplam kavram sayısı: **885**
 | **Doğal kaynak** | İnsanların ihtiyaçlarını karşılamak için doğadan sağladığı su, toprak, maden, orman ve enerji gibi varlıklardır. |
 | **Sürdürülebilirlik** | Doğal ve beşerî kaynakları gelecek kuşakların ihtiyaçlarını tehlikeye atmadan kullanma ilkesidir. |
 | **Çevre bilinci** | Doğal çevreyi koruma, kaynakları doğru kullanma ve çevresel sorunlara duyarlı davranma farkındalığıdır. |
+
+## Felsefe
+
+Bu bölümde **90** kavram vardır.
+
+| Kavram | YKS Uygun Açıklama |
+|---|---|
 | **Felsefe** | Varlık, bilgi, değer ve insan üzerine akla dayalı sorgulama etkinliğidir. |
 | **Philosophia** | Philosophia, Yunanca “bilgelik sevgisi” anlamına gelen ve felsefenin kökenini ifade eden kavramdır. |
 | **Sevgi** | Sevgi, felsefenin kökenindeki bilgelik arayışını ve hakikate yönelme isteğini ifade eder. |
@@ -733,6 +784,13 @@ Toplam kavram sayısı: **885**
 | **Vahiy** | Allah tarafından peygamberlere bildirilen ilahî mesajdır. |
 | **İman** | Dinin temel inanç esaslarını kalben kabul etme ve tasdik etmedir. |
 | **Teoloji** | Teoloji, bir dinin inanç esaslarını o dinin kabul ettiği kaynaklara dayanarak sistemli biçimde inceleyen alandır. |
+
+## Mantık
+
+Bu bölümde **39** kavram vardır.
+
+| Kavram | YKS Uygun Açıklama |
+|---|---|
 | **Mantık** | Doğru düşünmenin ilke ve kurallarını inceleyen disiplindir. |
 | **Doğru düşünme** | Doğru düşünme, akıl ilkelerine ve mantık kurallarına uygun, tutarlı düşünme biçimidir. |
 | **Akıl ilkeleri** | Akıl ilkeleri, doğru düşünmenin temelini oluşturan özdeşlik, çelişmezlik, üçüncü hâlin imkânsızlığı ve yeter-sebep ilkeleridir. |
@@ -772,6 +830,13 @@ Toplam kavram sayısı: **885**
 | **Niceleme mantığı** | Niceleme mantığı, tümel ve tikel niceleyicilerle kurulan önermeleri inceleyen mantık alanıdır. |
 | **Tartışma mantığı** | Tartışma mantığı, iddia, gerekçe, karşı görüş ve kanıtların tutarlılığını değerlendiren mantık yaklaşımıdır. |
 | **Bululuş mantığı** | Buluş mantığı, yeni fikir veya çözüm üretme sürecindeki düşünme yollarını inceleyen mantık yaklaşımıdır. |
+
+## Sosyoloji
+
+Bu bölümde **65** kavram vardır.
+
+| Kavram | YKS Uygun Açıklama |
+|---|---|
 | **Sosyoloji** | Toplumu, toplumsal kurumları ve toplumsal ilişkileri inceleyen bilim dalıdır. |
 | **Toplum** | Ortak yaşam alanı, kültür ve ilişki ağı içinde bulunan insan topluluğudur. |
 | **Toplumsal olay** | Belirli bir zamanda ve yerde ortaya çıkan, toplumu ilgilendiren somut sosyal durumdur. |
@@ -837,6 +902,13 @@ Toplam kavram sayısı: **885**
 | **Toplumsal kontrol** | Toplumun birey davranışlarını normlara uygun tutma mekanizmalarıdır. |
 | **Sapma** | Toplumsal normlara aykırı davranıştır. |
 | **Suç** | Hukuk kurallarına aykırı ve yaptırımı olan davranıştır. |
+
+## Psikoloji
+
+Bu bölümde **59** kavram vardır.
+
+| Kavram | YKS Uygun Açıklama |
+|---|---|
 | **Psikoloji** | Davranışları ve zihinsel süreçleri bilimsel yöntemlerle inceleyen bilim dalıdır. |
 | **Bilim** | Evreni ve olayları gözlem, deney ve akıl yürütmeyle sistemli biçimde açıklamaya çalışan bilgi alanıdır. |
 | **Davranış** | Organizmanın gözlenebilir tepkileridir. |
